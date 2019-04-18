@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjia3ep%2Fzxtools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjia3ep%2Fzxtools?ref=badge_shield)
+
 =====================================
 Tools to manipulate ZX Spectrum files
 =====================================
@@ -40,3 +42,7 @@ To view the resulting files with syntax colorization you can use special `Visual
 
 .. image:: https://raw.githubusercontent.com/codeatcpp/vscode-language-z80-asm/master/vscode.png
    :target: https://marketplace.visualstudio.com/items?itemName=jia3ep.zeus-z80-asm
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjia3ep%2Fzxtools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjia3ep%2Fzxtools?ref=badge_large)
